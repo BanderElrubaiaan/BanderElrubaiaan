@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BanderElrubaiaan
-- 👀 I’m interested in web development -Front End Currently-
-- 🌱 I’m currently learning Back End
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, Linux/Unix systems & Scripting.
+- 🌱 I’m currently learning System Administration 
+- 💞️ I’m looking to collaborate on a System that uses LDAP tools
 - 📫 How to reach me email me! @ bander_m.r@hotmail.com
 
 <!---
